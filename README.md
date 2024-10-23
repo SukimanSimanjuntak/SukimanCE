@@ -1,2 +1,2 @@
 # SukimanCE
-Tugas1 github
+Tugas Praktikum Knfoguration GitHub
